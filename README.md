@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a computer science and phyiscs student at Boston University<br>🌱 I am interested in the field of quantum computing<br>🤝 I am looking for help finding research and internship opportunities<br>
+🔭 I am a computer science and phyiscs student at Boston University<br>🌱 I am interested in the field of quantum computing<br>🤝 I am looking for research and internship opportunities<br>
 
 
 ## 🌐 Socials:
